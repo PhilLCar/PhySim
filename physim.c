@@ -43,7 +43,8 @@ void init_x() {
  exit(0);
 }
 
-int main(void) {
+int main(void)
+{
   init_x();
   return 0;
 }
